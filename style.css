@@ -1,0 +1,49 @@
+* {
+    box-sizing: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-bar {
+    border: 2px solid transparent;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray ;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 1sg ease-in-out;
+}
+
+#nav-bar-general-1 {
+    text-decoration-line: none;
+    background-color: aquamarine;
+    color: black;
+    margin: 120px;
+    padding: 10px;
+    animation: mover-arriba 2sg ease-in;
+}
+
+#nav-bar-general-1:hover {
+    transition: 20px;
+}
+
+#nav-bar-general-2 {
+    text-decoration-line: none;
+    color: black;
+    margin: 120px;
+    padding: 10px;
+}
+
+#nav-bar-general-3 {
+    text-decoration-line: none;
+    color: black;
+    margin: 120px;
+    padding: 10px;
+}
+
+#nav-bar-general-4 {
+    text-decoration-line: none;
+    color: black;
+    margin: 120px;
+    padding: 10px;
+}
